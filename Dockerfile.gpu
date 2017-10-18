@@ -1,6 +1,7 @@
 FROM alpine
 
 LABEL maintainer="Alexandre Buisine <alexandrejabuisine@gmail.com>"
+LABEL version="4.9.45-1"
 
 RUN apk add --no-cache bash
 
