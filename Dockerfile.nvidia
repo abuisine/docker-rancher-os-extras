@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV KERNEL_VERSION=4.9.45-rancher EXTRA_VERSION=4.9.45-nvidia-375.66-1
+ENV KERNEL_VERSION=4.9.45-rancher EXTRA_VERSION=4.9.45-nvidia-375.66-2
 
 LABEL maintainer="Alexandre Buisine <alexandrejabuisine@gmail.com>" version="$EXTRA_VERSION"
 
